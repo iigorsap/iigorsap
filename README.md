@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 💻 I’m currently learning data science
 - 🤔 I’m looking for help with data science, machine/deep learning.
-- 📫 How to reach me: <a href = "mailto:igorsantiago.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
   <a href="https://github.com/Igorswrk">
@@ -15,6 +14,8 @@
 
 <a href="https://www.linkedin.com/in/igorswrk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/iigorsap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:igorsantiago.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 ##
 
