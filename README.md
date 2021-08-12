@@ -20,7 +20,7 @@
 <img align="center" alt="GitHub" height="30" width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="Jupyter" height="30" width="100" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" />
+<img align="center" alt="Bash" height="30" width="40" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)" />
 <img align="right" alt="ironman" height="200" width="200" src="https://67.media.tumblr.com/d7ae48c2872b5e8252cba1b717f417b5/tumblr_ogm1evWJXa1v6a1bfo1_500.gif">
 </div>
 
