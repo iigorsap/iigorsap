@@ -1,4 +1,4 @@
-### Hello, I'm Igor Santiago, I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), and currently studying with the goal of becoming a data scientist.👋
+### Hello everybody, my name is **`Igor Santiago`** and this is my github. I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), and currently studying with the goal of becoming a data scientist.👋
 
 - 🤔 I’m looking for help with data science, machine/deep learning.
 
