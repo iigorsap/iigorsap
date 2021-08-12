@@ -33,7 +33,7 @@
 <img align="right" alt="ironman" height="200" width="200" src="https://67.media.tumblr.com/d7ae48c2872b5e8252cba1b717f417b5/tumblr_ogm1evWJXa1v6a1bfo1_500.gif">
 </div>
 
-### Text-editor | IDEs
+### Text-editor|IDEs:
 <div style="display: inline_block">
 <img align="center" alt="Visualstudio" height="30" width="160" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="center" alt="Pycharm" height="30" width="120" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
