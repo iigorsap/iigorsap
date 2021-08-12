@@ -3,7 +3,6 @@
 - 🤔 I’m looking for help with data science, machine/deep learning.
 
 <div>
-  <a href="https://github.com/Igorswrk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorswrk&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorswrk&layout=compact&langs_count=7&theme=nord"/>
 </div>
