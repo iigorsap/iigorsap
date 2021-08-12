@@ -54,4 +54,4 @@
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/igorswrk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igorswrk/igorswrk/blob/output/github-contribution-grid-snake.svg)
