@@ -9,15 +9,6 @@
   
  ##
  
- ### Connect with me:
-
-<a href="https://www.linkedin.com/in/igorswrk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/iigorsap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:igorsantiago.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-##
-
 ### Languages:
 <div style="display: inline_block">
 <img align="center" alt="python" height="30" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -58,5 +49,15 @@
 </div>
 
 ##
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/igorswrk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/iigorsap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:igorsantiago.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+##
+
 
 ![Snake animation](https://github.com/igorswrk/igorswrk/blob/output/github-contribution-grid-snake.svg)
