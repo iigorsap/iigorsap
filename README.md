@@ -60,6 +60,3 @@
 
 
 ##
-
-
-![Snake animation](https://github.com/igorswrk/igorswrk/blob/output/github-contribution-grid-snake.svg)
