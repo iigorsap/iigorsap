@@ -1,10 +1,10 @@
 ### Hello everybody, my name is **`Igor Santiago`** and this is my github. I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), and currently studying with the goal of becoming a data scientist.👋
 
-- 🤔 I’m looking for help with data science.
+🤔 I’m looking for help with data science.
 
-### Working on:
-- Python for Data Science training at Alura.
-- Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome".
+### Working on
+📚 Python for Data Science training at Alura.
+📚 Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome".
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorswrk&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
