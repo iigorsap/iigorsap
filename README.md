@@ -1,6 +1,6 @@
 ### Hello everybody, my name is **`Igor Santiago`** and this is my github. I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), and currently studying with the goal of becoming a data scientist.👋
 
-- 🤔 I’m looking for help with data science, machine/deep learning.
+- 🤔 I’m looking for help with data science.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorswrk&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -42,27 +42,6 @@
 <img align="center" alt="Visualstudio" height="30" width="160" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="center" alt="Pycharm" height="30" width="120" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </div>
-  
-### Other languages:
-<div style="display: inline_block">
-<img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
-<img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-
- ### Other Tools:
-<div style="display: inline_block">
-<img align="center" alt="Adobe-xd" height="30" width="100" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-<img align="center" alt="Figma" height="30" width="90" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-### System:
-<div style="display: inline_block">
-<img align="center" alt="windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-##
 
 ### Connect with me:
 
