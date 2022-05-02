@@ -3,8 +3,10 @@
 🤔 I’m looking for help with data science.
 
 ### Working on
-📚 Python for Data Science training at Alura.
-📚 Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome".
+<p> 📚 Python for Data Science training at Alura. <a href="https://github.com/Igorswrk/alura-python-ds"> Repository alura-python-ds</a></p>
+<p> 📚 Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome". <a href="https://github.com/Igorswrk/alura-python-ds"> Repository ic-covid19</a></p>
+
+## 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorswrk&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
