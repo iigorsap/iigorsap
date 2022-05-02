@@ -2,12 +2,16 @@
 
 - 🤔 I’m looking for help with data science.
 
+### Working on:
+- Python for Data Science training at Alura.
+- Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome".
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorswrk&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorswrk&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
- ##
+##
  
 ### Languages:
 <div style="display: inline_block">
@@ -48,6 +52,5 @@
 <a href="https://www.linkedin.com/in/igorswrk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/iigorsap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:igorsantiago.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 ##
