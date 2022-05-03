@@ -3,9 +3,7 @@
 🤔 I’m looking for help with data science.
 
 ### Working on
-<p> 📚 Python for Data Science training at Alura.</p>
-- <a href="https://github.com/Igorswrk/alura-python-ds"> Repository alura-python-ds</a>
-
+<p> 📚 Python for Data Science training at Alura.</p> <a href="https://github.com/Igorswrk/alura-python-ds"> Repository alura-python-ds</a>
 <p> 📚 Working on a volunteer scientific initiation with the subject "Profile of Brazilian patients hospitalized with the COVID-19 vaccine with breakthrough infection and risk factors for an unfavorable outcome".
 
   ## 
