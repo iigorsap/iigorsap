@@ -19,7 +19,7 @@
 <div style="display: inline_block">
 <img align="center" alt="python" height="30" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="center" alt="C" height="30" width="60" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="C++" height="30" width="80" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
+<img align="center" alt="C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
 ### ML|DL:
