@@ -27,6 +27,7 @@
 <img align="center" alt="Numpy" height="30" width="100" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img align="center" alt="Pandas" height="30" width="100" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="center" alt="scikit--learn" height="30" width="120" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img align="center" alt="seaborn" height="30" width="120" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" />
 </div>
 
 ### Frameworks, Platforms and Libraries:
