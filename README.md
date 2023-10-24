@@ -5,7 +5,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsantiago.work@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iigorsap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Igorswrk) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/santi_akms) 
 
 ### About Me:
+
 🪴 I'm currently learning about data engineering<br>
+
+📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?website#4)
 
 ---
 
