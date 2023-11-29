@@ -8,7 +8,7 @@
 
 🪴 I'm currently learning about data engineering<br>
 
-📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?website#4)
+📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 ---
 
