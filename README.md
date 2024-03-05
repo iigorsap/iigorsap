@@ -2,11 +2,11 @@
 
 <img align="right" alt="ironman" height="200" width="200" src="https://67.media.tumblr.com/d7ae48c2872b5e8252cba1b717f417b5/tumblr_ogm1evWJXa1v6a1bfo1_500.gif">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsantiago.work@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iigorsap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Igorswrk) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/santi_akms) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsantiago.work@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Igorswrk)
 
 ### About Me:
 
-🪴 I'm currently learning about data engineering<br>
+🪴 I'm currently learning about django framework<br>
 
 📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
