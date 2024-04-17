@@ -10,14 +10,11 @@
 
 📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
----
-
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Igorswrk&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Igorswrk&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorswrk&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorswrk&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
----
 [![](https://visitcount.itsvg.in/api?id=Igorswrk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
