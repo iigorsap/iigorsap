@@ -8,7 +8,7 @@
 
 🪴 I'm currently learning about FastAPI<br>
 
-📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+<!-- 📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer) -->
 
 <!-- ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Igorswrk&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
