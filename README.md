@@ -6,7 +6,7 @@
 
 ### About Me:
 
-🪴 I'm currently learning about django framework<br>
+🪴 I'm currently learning about FastAPI<br>
 
 📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
