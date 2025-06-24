@@ -4,10 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsantiago.work@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Igorswrk) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iigorsap)
 
-### About Me:
-
-🪴 I'm currently learning about FastAPI<br>
-
 <!-- 📃 [My resume (cv)](https://www.canva.com/design/DAE7I9fxgZE/_ULhrBjGCDuvlC1sMSVphQ/view?utm_content=DAE7I9fxgZE&utm_campaign=designshare&utm_medium=link&utm_source=viewer) -->
 
 <!-- ### 📊 GitHub Stats:
